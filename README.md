@@ -60,7 +60,7 @@
 
 <div align="center">
   <a href="https://github.com/cestdove"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.kaggle.com/cestdove"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://www.kaggle.com/jenniferpintus"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://datascienceportfol.io/cestdove"><img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=rss&logoColor=white" alt="Portfolio"/></a>
   <a href="https://x.com/cestdove"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <br><br>
