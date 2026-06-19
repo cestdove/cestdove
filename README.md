@@ -1,10 +1,18 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi,%20I'm%20Dove%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Bioacoustics,%20NLP%20%26%20Computer%20Vision&descAlignY=58&descSize=18" width="100%"/>
-
+  <img src="images/banner.jpeg" width="100%" alt="Dove Header" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </div>
 
-Passionate about Data Science and Machine Learning, with hands-on experience in NLP, deep learning, text classification, and end-to-end ML pipelines in Python. Strong foundation in model design, feature engineering, and data analysis. Seeking a challenging role to develop cutting-edge AI solutions and turn complex data into real-world impact.
+<br>
+
+<div align="center" style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #1f2937; max-width: 700px; margin: 0 auto;">
+  <h1 style="font-size: 2.5rem; font-weight: 700; margin-bottom: 0.5rem; letter-spacing: -0.02em;">Dove</h1>
+  <p style="font-size: 1.25rem; font-weight: 400; margin-top: 0; letter-spacing: -0.01em; color: #4b5563;">
+    Data Scientist & Machine Learning Researcher
+  </p>
+  <p style="font-size: 1rem; color: #6b7280; font-weight: 300; margin-top: 1rem;">
+    Building intelligent pipelines in <b>NLP</b>, <b>Bioacoustics</b>, and <b>Computer Vision</b>. My approach bridges the gap between academic theory and scalable, real-world AI solutions.
+  </p>
+</div>
 
 <br>
 
@@ -12,27 +20,27 @@ Passionate about Data Science and Machine Learning, with hands-on experience in 
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a> <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a> <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a> <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/></a> <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
 
 **Machine Learning**
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/SVMs-4B5563?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></a> <a href="https://en.wikipedia.org/wiki/Support_vector_machine"><img src="https://img.shields.io/badge/SVMs-4B5563?style=for-the-badge"/></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a> <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
 
 **Deep Learning**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a> <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/></a> <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 
 **NLP & Audio**
 
-<img src="https://img.shields.io/badge/Librosa-FF6F61?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/> <img src="https://img.shields.io/badge/TF--IDF-4B5563?style=for-the-badge"/> <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge"/>
+<a href="https://librosa.org/"><img src="https://img.shields.io/badge/Librosa-FF6F61?style=for-the-badge"/></a> <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/></a> <a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf"><img src="https://img.shields.io/badge/TF--IDF-4B5563?style=for-the-badge"/></a> <a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/></a> <a href="https://www.promptingguide.ai/techniques/rag"><img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge"/></a>
 
 **Computer Vision**
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/CNNs-4B5563?style=for-the-badge"/>
+<a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a> <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network"><img src="https://img.shields.io/badge/CNNs-4B5563?style=for-the-badge"/></a>
 
 **Tools & Visualization**
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Joblib-4B5563?style=for-the-badge"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/></a> <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/></a> <a href="https://joblib.readthedocs.io/"><img src="https://img.shields.io/badge/Joblib-4B5563?style=for-the-badge"/></a> <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a> <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 
 <br>
 
