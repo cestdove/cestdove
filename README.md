@@ -84,6 +84,9 @@ My graduation thesis focuses on creating a robust NLP pipeline for automated hel
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-cestdove-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cestdove)
+[![Kaggle](https://img.shields.io/badge/Kaggle-cestdove-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jenniferpintus)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cestdove-008080?style=for-the-badge&logo=rss&logoColor=white)](https://datascienceportfol.io/cestdove)
+[![X](https://img.shields.io/badge/X-cestdove-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cestdove)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
 
