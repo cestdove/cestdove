@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="images/banner.jpeg" width="100%" alt="Dove Header" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="images/banner.jpeg" width="50%" alt="Dove Header" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </div>
-
-<br>
 
 <div align="center" style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; max-width: 700px; margin: 0 auto;">
   <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 0.2rem; color: #111827;">Dove</h1>
