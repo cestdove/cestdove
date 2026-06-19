@@ -44,14 +44,15 @@
 
 <br>
 
-## 🎓 Academic Research
+## 🎓 University Thesis
 
-> **"Classificazione automatica di ticket tramite rappresentazione TF-IDF in spazi vettoriali ad alta dimensionalità: un approccio Data-Centric con SVM"**
+**Project:** *Automatic Ticket Classification via TF-IDF & SVM*
 
-- **Research Focus** — NLP pipeline for automated helpdesk triage.
-- **Data-Centric AI** — Implemented controlled label noise and semantic perturbations to improve model robustness.
-- **Theory** — Deep dive into SVM soft-margin optimization, primal-dual formulation, and high-dimensional vector spaces.
-- **Resources** — Documentation and implementation available in [PW_Triage_ML](https://github.com/cestdove/PW_Triage_ML).
+My graduation thesis focuses on creating a robust NLP pipeline for automated helpdesk triage, prioritizing **Data-Centric AI** principles.
+
+*   **Key Contribution:** Demonstrated that refining data quality (through noise injection and semantic perturbation) often yields higher performance gains than traditional hyperparameter tuning.
+*   **Core Concepts:** SVMs, High-dimensional Vector Spaces, Primal-Dual formulation, Soft-margin optimization.
+*   **Repository:** Explore the implementation here: [PW_Triage_ML](https://github.com/cestdove/PW_Triage_ML).
 
 <br>
 
